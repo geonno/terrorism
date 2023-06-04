@@ -1,0 +1,6 @@
+대륙별 통계
+
+dfa -> asia, africa, europe
+dfb -> asia, africa, europe
+dfc -> africa, asia, europe
+dfd -> africa, asia, america
