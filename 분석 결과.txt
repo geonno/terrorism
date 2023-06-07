@@ -1,0 +1,91 @@
+분석 결과
+
+-통계분석
+1-1. 연도별 대륙별 테러 수
+
+dfa -> asia, africa, europe
+dfb -> asia, africa, europe
+dfc -> africa, asia, europe
+dfd -> africa, asia, america
+
+1-2. 연도별 테러 수단 비율
+dfa -> explosives, firearms, incendiary
+dfb -> explosives, firearms, incendiary
+dfc -> explosives, firearms, incendiary
+dfd -> explosives, firearms, incendiary
+
+2-1.a
+Unknown                                    1249
+Taliban                                     236
+Maoists                                     165
+Liberation Tigers of Tamil Eelam (LTTE)     163
+Moro Islamic Liberation Front (MILF)         89
+
+Unknown                                             1423
+Algerian Islamic Extremists                          157
+Salafist Group for Preaching and Fighting (GSPC)     125
+Hamas (Islamic Resistance Movement)                  123
+Al-Aqsa Martyrs Brigade                              100
+
+Unknown                                             1423
+Algerian Islamic Extremists                          157
+Salafist Group for Preaching and Fighting (GSPC)     125
+Hamas (Islamic Resistance Movement)                  123
+Al-Aqsa Martyrs Brigade                              100
+
+2-1.b
+Unknown                                           5163
+Taliban                                           1207
+Communist Party of India - Maoist (CPI-Maoist)    1043
+Tehrik-i-Taliban Pakistan (TTP)                    430
+Liberation Tigers of Tamil Eelam (LTTE)            364
+
+Unknown                                   6331
+Al-Shabaab                                 184
+Al-Qaida in the Islamic Maghreb (AQIM)     164
+Algerian Islamic Extremists                149
+Al-Qaida in Iraq                           145
+
+Unknown                                   6331
+Al-Shabaab                                 184
+Al-Qaida in the Islamic Maghreb (AQIM)     164
+Algerian Islamic Extremists                149
+Al-Qaida in Iraq                           145
+
+2-1.c
+Unknown                            13501
+Taliban                             4074
+New People's Army (NPA)              955
+Maoists                              891
+Tehrik-i-Taliban Pakistan (TTP)      730
+
+Unknown                                        15572
+Islamic State of Iraq and the Levant (ISIL)     2839
+Al-Shabaab                                      1995
+Boko Haram                                      1823
+Al-Qaida in the Arabian Peninsula (AQAP)         852
+
+Unknown                                        15572
+Islamic State of Iraq and the Levant (ISIL)     2839
+Al-Shabaab                                      1995
+Boko Haram                                      1823
+Al-Qaida in the Arabian Peninsula (AQAP)         852
+
+2-1.d
+Unknown                                  8046
+Taliban                                  6461
+New People's Army (NPA)                  1155
+Maoists                                   935
+Khorasan Chapter of the Islamic State     534
+
+Unknown                                        9945
+Islamic State of Iraq and the Levant (ISIL)    4342
+Houthi extremists (Ansar Allah)                2491
+Al-Shabaab                                     2240
+Boko Haram                                     1469
+
+Unknown                                                     628
+National Liberation Army of Colombia (ELN)                  395
+Revolutionary Armed Forces of Colombia (FARC) dissidents    198
+Mapuche extremists                                           63
+White supremacists/nationalists                              44
