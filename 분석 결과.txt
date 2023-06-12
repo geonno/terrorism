@@ -1,91 +1,56 @@
-분석 결과
+-1번 목표-
 
--통계분석
-1-1. 연도별 대륙별 테러 수
+2001~2005 -> Private citizens & Property, Government, Business / Firearms, Explosives, Incendiary
 
-dfa -> asia, africa, europe
-dfb -> asia, africa, europe
-dfc -> africa, asia, europe
-dfd -> africa, asia, america
+2006~2010 -> Private citizens & Property, Government, Business / Explosives, Firearms, Incendiary
 
-1-2. 연도별 테러 수단 비율
-dfa -> explosives, firearms, incendiary
-dfb -> explosives, firearms, incendiary
-dfc -> explosives, firearms, incendiary
-dfd -> explosives, firearms, incendiary
+2011~2015 -> Private citizens & Property, Military, Police / Firearms, Explosives, Incendiary
 
-2-1.a
-Unknown                                    1249
-Taliban                                     236
-Maoists                                     165
-Liberation Tigers of Tamil Eelam (LTTE)     163
-Moro Islamic Liberation Front (MILF)         89
+2016~2020 ->  Private citizens & Property, Police, Business / Explosives, Firearms
 
-Unknown                                             1423
-Algerian Islamic Extremists                          157
-Salafist Group for Preaching and Fighting (GSPC)     125
-Hamas (Islamic Resistance Movement)                  123
-Al-Aqsa Martyrs Brigade                              100
 
-Unknown                                             1423
-Algerian Islamic Extremists                          157
-Salafist Group for Preaching and Fighting (GSPC)     125
-Hamas (Islamic Resistance Movement)                  123
-Al-Aqsa Martyrs Brigade                              100
+-2번 목표-
 
-2-1.b
-Unknown                                           5163
-Taliban                                           1207
-Communist Party of India - Maoist (CPI-Maoist)    1043
-Tehrik-i-Taliban Pakistan (TTP)                    430
-Liberation Tigers of Tamil Eelam (LTTE)            364
+아프리카
+Military, Business, Private citizens & Property
+x
+Religious Figures/Institutions, Government, Educational Institution
+Religious Figures/Institutions, Food or Water Supply, Business
 
-Unknown                                   6331
-Al-Shabaab                                 184
-Al-Qaida in the Islamic Maghreb (AQIM)     164
-Algerian Islamic Extremists                149
-Al-Qaida in Iraq                           145
+아시아
+Religious Figures/Institutions, Government, Business
+Religious Figures/Institutions, Food or Water Supply, Journalists & Media
+Religious Figures/Institutions, Private citizens & Property, Educational Institution
+Religious Figures/Institutions, Military, Business
 
-Unknown                                   6331
-Al-Shabaab                                 184
-Al-Qaida in the Islamic Maghreb (AQIM)     164
-Algerian Islamic Extremists                149
-Al-Qaida in Iraq                           145
+유럽
+Military, Business, Private citizens & Property
+Government, Military, Private citizens & Property
+Religious Figures/Institutions, Business, Journalists & Media
 
-2-1.c
-Unknown                            13501
-Taliban                             4074
-New People's Army (NPA)              955
-Maoists                              891
-Tehrik-i-Taliban Pakistan (TTP)      730
+아메리카
+Private citizens & Property, Transportation, Business
 
-Unknown                                        15572
-Islamic State of Iraq and the Levant (ISIL)     2839
-Al-Shabaab                                      1995
-Boko Haram                                      1823
-Al-Qaida in the Arabian Peninsula (AQAP)         852
+-3번 목표-
+아프리카 
+Private citizens & Property, Military, Business
+Private citizens & Property, Military, Police
+Military, Private citizens & Property, Business
+Military, Private citizens & Property, Police
 
-Unknown                                        15572
-Islamic State of Iraq and the Levant (ISIL)     2839
-Al-Shabaab                                      1995
-Boko Haram                                      1823
-Al-Qaida in the Arabian Peninsula (AQAP)         852
+아시아
+Private citizens & Property, Government, Business
+Private citizens & Property, Government, Business
+Private citizens & Property, Police, Military
+Police, Military, Private citizens & Property
 
-2-1.d
-Unknown                                  8046
-Taliban                                  6461
-New People's Army (NPA)                  1155
-Maoists                                   935
-Khorasan Chapter of the Islamic State     534
+유럽
+Private citizens & Property, Military, Business
+Private citizens & Property, Military, Police
+Military, Private citizens & Property, Business
 
-Unknown                                        9945
-Islamic State of Iraq and the Levant (ISIL)    4342
-Houthi extremists (Ansar Allah)                2491
-Al-Shabaab                                     2240
-Boko Haram                                     1469
+아메리카
+Business, Government, Private citizens & Property
 
-Unknown                                                     628
-National Liberation Army of Colombia (ELN)                  395
-Revolutionary Armed Forces of Colombia (FARC) dissidents    198
-Mapuche extremists                                           63
-White supremacists/nationalists                              44
+
+
